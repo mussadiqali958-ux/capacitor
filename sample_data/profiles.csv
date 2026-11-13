@@ -1,0 +1,5 @@
+period,hours,load_fraction
+Peak,1500,1.0
+High,2300,0.75
+Medium,3060,0.52
+Low,1900,0.29
